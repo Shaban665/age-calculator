@@ -20,10 +20,7 @@
     width: 100%;
     max-width: 600px;
     padding: 20px;
-<<<<<<< HEAD
     text-align: center;
-=======
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
 }
 
 .calculator h1 {
@@ -44,21 +41,14 @@
     align-items: center;
     gap: 10px;
     flex-wrap: wrap;
-<<<<<<< HEAD
     justify-content: center;
-=======
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
 }
 
 .input-box input {
     flex: 1;
     min-width: 200px;
-<<<<<<< HEAD
     max-width: 100%;
     margin-right: 0;
-=======
-    margin-right: 20px;
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
     padding: 14px 20px;
     border: 0;
     outline: 0;
@@ -92,41 +82,24 @@
     cursor: pointer;
 }
 
-<<<<<<< HEAD
 /* Tablet & Mobile */
 @media (max-width: 768px) {
     .calculator h1 {
         font-size: 40px;
-=======
-/* Mobile Responsive */
-@media (max-width: 768px) {
-    .calculator h1 {
-        font-size: 40px;
-        text-align: center;
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
     }
 
     .input-box {
         flex-direction: column;
-<<<<<<< HEAD
-=======
-        align-items: stretch;
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
         padding: 20px;
     }
 
     .input-box input {
-<<<<<<< HEAD
-=======
-        margin-right: 0;
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
         font-size: 16px;
         padding: 12px;
     }
 
     .input-box button {
         width: 100%;
-<<<<<<< HEAD
         font-size: 16px;
         padding: 12px;
     }
@@ -136,16 +109,6 @@
 @media (max-width: 480px) {
     .calculator h1 {
         font-size: 28px;
-=======
-        padding: 12px;
-        font-size: 16px;
-    }
-}
-
-@media (max-width: 480px) {
-    .calculator h1 {
-        font-size: 32px;
->>>>>>> b994e5717f495480918dc25230ea8afea8e1afbc
     }
 
     .input-box {
