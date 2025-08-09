@@ -4,7 +4,7 @@ A simple and responsive web app to calculate your exact age in years, months, an
 
 
 ## 🚀 Live Demo
-[View Project](https://github.com/Shaban665/age-calculatorp)
+[View Project](https://shaban665.github.io/age-calculator/)
 
 
 
@@ -37,3 +37,4 @@ A simple and responsive web app to calculate your exact age in years, months, an
 
 ## 👨‍💻 Author
 Made with ❤ by Shaban Ansari
+
